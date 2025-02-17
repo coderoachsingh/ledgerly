@@ -101,12 +101,6 @@ All of these services are run using Docker containers to ensure availability and
   - [Github Actions](https://github.com/features/actions) CI pipelines to build, test and push application images from Github to various registries.
   - [Traefik](https://doc.traefik.io/) acts as a dynamic reverse proxy and automatically manages SSL/TLS certificates
 
-## Working
--A picture of the bill is uploded to the S3 bucket. 
-<br>
--lambda function is triggered and it scan and get the total amount from the bill.
-<br>
--The expense data is stored in PostgreSQL database.
 
 
 
